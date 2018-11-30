@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+/opt/buddy/talend_ws/.metadata/.plugins/org.eclipse.jdt.core
+3575021834.index
