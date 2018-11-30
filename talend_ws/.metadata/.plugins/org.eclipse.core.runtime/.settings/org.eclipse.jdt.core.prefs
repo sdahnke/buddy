@@ -38,6 +38,7 @@ org.eclipse.jdt.core.classpathVariable.MANAGEMENT_LIBRARIES=/opt/TOS_ESB-2018102
 org.eclipse.jdt.core.classpathVariable.ORG_TALEND_DESIGNER_ABSTRACTMAP_LIBRARIES=/opt/TOS_ESB-20181026_1147-V7.1.1/Studio/plugins/org.talend.designer.abstractmap_7.1.1.20181026_1147.jar
 org.eclipse.jdt.core.classpathVariable.ORG_TALEND_MODEL_LIBRARIES=/opt/TOS_ESB-20181026_1147-V7.1.1/Studio/plugins/org.talend.model_7.1.1.20181026_1147.jar
 org.eclipse.jdt.core.classpathVariable.TALEND_MODEL=/opt/TOS_ESB-20181026_1147-V7.1.1/Studio/plugins/org.talend.model_7.1.1.20181026_1147.jar
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
 org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
 org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.8
 org.eclipse.jdt.core.compiler.compliance=1.8
